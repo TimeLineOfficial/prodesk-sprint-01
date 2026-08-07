@@ -1,0 +1,15 @@
+feat(release): OmniRelay Universal Real-Time Dispatch System v1.0.0
+
+Detailed Technical Release Summary:
+- Integrated WhatsApp Mobile Fullscreen Chat View with distraction-free 100vh mode.
+- Built Staff Login and Channel Access Control System (admin-managed staff user accounts and channel enforcement).
+- Executive Admin Vault secured with User ID: admin / Password: 124@h (zero password text hints).
+- Added Priority Message Bubble Color Themes: Red for Emergency, Yellow/Amber for High, Green for Normal.
+- Implemented WhatsApp Read Tick Logic (clock sending -> single tick sent -> double tick delivered -> double blue tick read by team member).
+- Added Admin Control Center for Staff Account Management, Channel Management, and Company Branding customization.
+- Fixed Light Mode High-Contrast text visibility for all headings, subheadings, and paragraphs.
+- Resolved DOM ARIA Accessibility Audit runner for 100% empirical pass score.
+- Added Multi-Tenant Company Workspace Personalization with isolated local storage config.
+- Real RTT WebSocket latency ping measurement in milliseconds.
+- Human-readable business telemetry logging.
+- Fluid full-width screen layout (1600px max) with ultra-thin 4px sleek scrollbars and responsive tooltips.
