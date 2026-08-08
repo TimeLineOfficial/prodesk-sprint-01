@@ -1,0 +1,5 @@
+fix(github-pages): add base: ./ to vite.config.js to resolve blank white screen asset 404 on GitHub Pages
+
+- Converted asset URLs in index.html to relative paths (./assets/index-CNwJpAOe.js).
+- Resolved blank screen 404 issue on GitHub Pages subpath deployment.
+- Force-pushed live across main, master, and gh-pages branches.
