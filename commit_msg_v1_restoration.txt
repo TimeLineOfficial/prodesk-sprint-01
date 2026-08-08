@@ -1,0 +1,5 @@
+feat(v1): rollback to original v1.0.0 website release and purge all unneeded code files
+
+- Restored clean original v1.0.0 codebase from commit 61ca26f.
+- Compiled static production bundle at root for instant GitHub Pages hosting.
+- Published to main, master, and gh-pages branches.
